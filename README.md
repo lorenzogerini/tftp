@@ -1,6 +1,6 @@
 # Trivial File Transfer Protocol (TFTP)
 
-This is a simple implementation of the Trivial File Transfer Protocol (TFTP) in C, as described in [RFC1350](https://www.rfc-editor.org/rfc/rfc1350), for both client and server sides. 
+This is a simple implementation of the Trivial File Transfer Protocol (TFTP) in C, as described in [RFC1350](https://www.rfc-editor.org/rfc/rfc1350).
 
 With respect to the original TFTP, the following assumptions are made
 
