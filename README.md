@@ -9,8 +9,8 @@ With respect to the original TFTP, the following assumptions are made
 2. It is assumed that messages can not get lost (ritrasmission was not implemented).
 
 3. Only the following errors are handled:
-		a. File not found
-		b. Illegal TFTP operation
+	a. File not found
+	b. Illegal TFTP operation
 
 
 ## Usage
